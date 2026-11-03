@@ -1,5 +1,7 @@
 # Dr. Doaa Samy — Clinic Website
 
+[![Dr. Doaa Samy website](https://raw.githubusercontent.com/akkrrammm/akkrrammm/main/assets/doaa-samy.jpg)](https://dr-doaasamy.com/)
+
 > Official bilingual (Arabic / English) website for Dr. Doaa Samy, powered by a custom admin CMS.
 
 🔗 **Live site:** [dr-doaasamy.com](https://dr-doaasamy.com/)
